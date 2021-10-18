@@ -1,0 +1,1 @@
+1. num1, num2, and result are all strings
